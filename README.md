@@ -14,7 +14,6 @@ Primeiro projeto que testei o Firebase.
 ![Web 1](https://github.com/JORGECARDOSODEV/telalogin/blob/main/telalogin.jpg)
 
 # Tecnologias utilizadas
-- Recursos utilizados:
 - Javascript
 - CSS
 - Html
