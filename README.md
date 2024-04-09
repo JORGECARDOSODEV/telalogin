@@ -11,7 +11,7 @@ Inserindo a senha e usuário admin, retorna mensagem JS.
 Primeiro projeto que testei o Firebase.
 
 ## Telas web
-![Web 1](https://github.com/JORGECARDOSODEV/appvideo/blob/main/printappvideo.jpg)
+![Web 1](https://github.com/JORGECARDOSODEV/telalogin/blob/main/telalogin.jpg)
 
 # Tecnologias utilizadas
 - Recursos utilizados:
